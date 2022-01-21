@@ -1,2 +1,2 @@
-# git-demo
+# Calculator
 This is my demo git
